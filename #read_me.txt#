@@ -1,0 +1,3 @@
+WORK IN PROGRESS!
+simulator_cir is the simulator for circular models, simulator_ell for elliptical models. Currently, it's basically the same code (disks are defined as ellipses with A=B),
+but we plan to u
